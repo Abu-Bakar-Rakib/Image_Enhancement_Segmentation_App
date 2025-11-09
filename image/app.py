@@ -165,4 +165,4 @@ if uploaded_file is not None:
         mime="image/jpeg"
     )
 
-    st.success("✅ Processing completed successfully!")
+
